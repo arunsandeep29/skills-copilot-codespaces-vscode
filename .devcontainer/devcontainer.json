@@ -1,0 +1,10 @@
+{
+    "name": "Arun Sandeep Copilot",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
