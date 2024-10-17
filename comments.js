@@ -76,5 +76,3 @@ app.listen(3000, () => console.log('Server is running...'));
 // Open a browser and type the following URL to update a comment by id
 // http://localhost:3000/comments/0
 // and provide a message in the body
-
-// Open a browser and type the following URL
